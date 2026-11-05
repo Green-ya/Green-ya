@@ -18,6 +18,5 @@ SRE и архитектор агентных систем. Делаю стаби
 [![Bash](https://img.shields.io/badge/Bash-scripting-orange)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-containerization-blue)](https://docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-purple)](https://www.postgresql.org/)
-[![SSH](https://img.shields.io/badge/SSH-secure-connection-teal)](https://www.openssh.com/)
 
 
